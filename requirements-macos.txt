@@ -1,0 +1,14 @@
+ipython==8.18.1
+jupyter==1.0.0
+notebook==7.0.6
+nbimporter==0.3.4
+pytest==7.4.4
+pandas==2.1.4
+numpy==1.26.3
+tensorflow-macos==2.15.0.*
+torch==2.1.2
+accelerate==0.26.1
+transformers==4.37.1
+datasets==2.16.1
+evaluate==0.4.1
+rouge-score==0.1.2
